@@ -1,0 +1,22 @@
+{
+  "name": "50_d_50_p",
+  "version": "1.0.0",
+  "description": "doing javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viallymboma/50_frontend_cool_projects.git"
+  },
+  "author": "vially",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viallymboma/50_frontend_cool_projects/issues"
+  },
+  "homepage": "https://github.com/viallymboma/50_frontend_cool_projects#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
